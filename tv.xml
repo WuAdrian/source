@@ -2,6 +2,7 @@
 <tv generator-info-name="Tak" generator-info-url="https://github.com/taksssss/EPG-Server">
 	<channel id="CCTV10">
 		<display-name lang="zh">CCTV10</display-name>
+		<display-name lang="zh">CCTV1</display-name>
 		<icon src="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV10.png"/>
 	</channel>
 	<programme channel="CCTV10" start="20250515000600 +0800" stop="20250515003600 +0800">
